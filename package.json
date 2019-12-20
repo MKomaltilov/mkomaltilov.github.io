@@ -1,0 +1,22 @@
+{
+  "name": "mkomaltilov.github.io",
+  "version": "1.0.0",
+  "description": "Marat Komaltilov homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKomaltilov/mkomaltilov.github.io.git"
+  },
+  "author": "Marat Komaltilov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKomaltilov/mkomaltilov.github.io/issues"
+  },
+  "homepage": "https://github.com/MKomaltilov/mkomaltilov.github.io#readme",
+  "devDependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
